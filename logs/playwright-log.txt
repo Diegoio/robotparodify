@@ -1,0 +1,11 @@
+{"level":30,"time":"2021-02-13T16:38:10.764Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Listening on 56184"}
+{"level":30,"time":"2021-02-13T16:38:18.636Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T16:38:25.494Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-13T16:38:25.494Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Changed active page"}
+{"level":30,"time":"2021-02-13T16:38:38.623Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Getting css of element on page"}
+{"level":30,"time":"2021-02-13T16:38:38.676Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T16:38:38.676Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-13T16:38:38.677Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Changed active page"}
+{"level":30,"time":"2021-02-13T16:38:38.728Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T16:38:38.728Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-13T16:38:38.728Z","pid":12088,"hostname":"DESKTOP-CSGSVIM","msg":"Changed active page"}
